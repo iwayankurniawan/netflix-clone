@@ -1,0 +1,25 @@
+.header-background{
+    position: fixed;
+    top: 0;
+    height: 3.5rem;
+    width: 100%;
+
+    display: flex;
+    justify-content :space-between;
+    transition: all .5s ease-in-out ;
+
+}
+
+.header-background-scroll{
+    background-color: black;
+    transition: all .5s ease-in-out ;
+}
+
+.logo-netflix{
+    object-fit: contain;
+    height: 1.5rem;
+    margin: 1rem;
+    margin-left: 1rem;
+}
+
+
